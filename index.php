@@ -7,5 +7,7 @@ switch ($day) {
         break;
     case 3:echo "Середа";
         break;
+    case 4:echo "Четвер";
+        break;
     default:echo "<span style=\"color:red;\">Помилка</span>";
 }
